@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barberia", "Barberia.csproj", "{F70585D3-43DD-45FD-A1A1-78ADBFCDEA51}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Barber_Shop", "..\barron\Barber_Shop\Barber_Shop.vdproj", "{5BAFE163-37A2-4D02-84CD-0028A123ADB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F70585D3-43DD-45FD-A1A1-78ADBFCDEA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70585D3-43DD-45FD-A1A1-78ADBFCDEA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70585D3-43DD-45FD-A1A1-78ADBFCDEA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70585D3-43DD-45FD-A1A1-78ADBFCDEA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BAFE163-37A2-4D02-84CD-0028A123ADB2}.Debug|Any CPU.ActiveCfg = Debug
+		{5BAFE163-37A2-4D02-84CD-0028A123ADB2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D414BC37-4BCC-4012-8018-5C1290E3B46E}
+	EndGlobalSection
+EndGlobal
